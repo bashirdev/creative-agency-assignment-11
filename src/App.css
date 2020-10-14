@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+
+}
+.App-carousel{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
+.slick-dots .slick-active{
+ 
+  background-color: #FFF !important;
+
 }
 
 .App-logo {
