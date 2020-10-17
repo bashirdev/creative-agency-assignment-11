@@ -11,6 +11,7 @@
 .slick-dots .slick-active{
  
   background-color: #FFF !important;
+  border-radius: 50% ! important;
 
 }
 

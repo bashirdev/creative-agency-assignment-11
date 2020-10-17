@@ -1,5 +1,6 @@
 import React from 'react';
 import ClientFeedback from '../ClientFeedback/ClientFeedback';
+import ContactUs from '../ContactUs/ContactUs';
 import Header from '../Header/Header';
 import ProvideServices from '../ProvideServices/ProvideServices';
 import SomeWork from '../SomeWork/SomeWork';
@@ -12,6 +13,7 @@ const Home = () => {
          <ProvideServices />
          <SomeWork />
          <ClientFeedback />
+         <ContactUs />
         </>
     );
 };
