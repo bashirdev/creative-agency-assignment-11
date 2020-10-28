@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Creative-agency-app
+<h1>Creative-agency-app</h1>
 
 <h1>Feature:</h1>
 Site is responsive, it has firebase authentication and a collection ofe-mails in MongoDB from where
