@@ -17,18 +17,18 @@ Admin will be able to change the status of orders.
 
 
 <h1>Technology Used:</h1>
-React.js
-react-hook-form
-react-elastic-carousal
-react-router-dom
-Firebase auth
-Firebase hosting
-custom css
-Bootstrap
-Node.js
-Express.js
-MongoDB
-Base64
-Heroku deploy
+<li>React.js</li></br>
+<li>react-hook-form</li></br>
+<li>react-elastic-carousal</li></br>
+<li>react-router-dom</li></br>
+<li>Firebase auth</li></br>
+<li>Firebase hosting</li></br>
+<li>custom css</li></br>
+<li>Bootstrap</li></br>
+<li>Node.js</li></br>
+<li>Express.js</li></br>
+<li>MongoDB</li></br>
+<li>Base64</li></br>
+<li>Heroku deploy</li></br>
 
 
